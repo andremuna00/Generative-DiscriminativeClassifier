@@ -9,6 +9,7 @@ This project focuses on training a model to classify handwritten digits using th
 
 Each image is represented as a 784-dimensional vector of real values between 0 (black) and 1 (white). The task is to use various machine learning techniques to train and evaluate classifiers for this dataset.
 
+![image](https://github.com/user-attachments/assets/2816be61-17fc-43bf-ab8e-77c039a8a764)
 
 ## ⚙️ Implementation Details
 
@@ -45,7 +46,7 @@ pip install numpy scikit-learn
 
 Ensure the MNIST dataset is available in the required format. Use libraries like tensorflow or sklearn to load the data if needed:
 
-```bash
+```python
 from sklearn.datasets import fetch_openml
 mnist = fetch_openml('mnist_784', version=1)
 data = mnist.data
