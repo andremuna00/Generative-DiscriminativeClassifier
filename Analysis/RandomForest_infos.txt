@@ -1,0 +1,5 @@
+Best parameter (CV score=0.950):{'max_depth': 100, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 1000}
+Search Time: 1300.4384484291077
+Training Time: 45.348243713378906
+Testing Time: 0.5417032241821289
+Accuracy: 0.9722

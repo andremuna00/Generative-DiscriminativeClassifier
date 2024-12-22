@@ -1,0 +1,4 @@
+Best parameter (CV score=0.967):{C:3}
+Training Time: 124.00096249580383
+Testing Time: 49.74947500228882
+Accuracy: 0.9834

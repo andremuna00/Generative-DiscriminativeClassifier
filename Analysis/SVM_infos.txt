@@ -1,0 +1,2 @@
+Best parameter (CV score=0.967):{'C': 3, 'kernel': 'rbf'}
+Search Time: 1089.809186220169

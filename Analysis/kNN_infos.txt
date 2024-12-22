@@ -1,0 +1,5 @@
+Best parameter (CV score=0.944):{'k': 3}
+Search Time: 505.5884473323822
+Training Time: 0.0
+Testing Time: 846.4976675510406
+Accuracy: 0.9717
